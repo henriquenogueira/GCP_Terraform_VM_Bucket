@@ -87,7 +87,7 @@ variable "provisioning_model" {
 }
 
 variable "bucket_name" {
-  default = "live-caption-terraform"
+  default = "live-terraform"
 }
 
 #### modificar credencial para criação de máquina ####
